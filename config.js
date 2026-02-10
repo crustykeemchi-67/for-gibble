@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "You're the sweetest woman in the world 💞",
+    pageTitle: "From me to you <3",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -58,10 +58,10 @@ const CONFIG = {
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
         backgroundStart: "#660f1e",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#d45b5b",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#dbafaf",     // Button color (should stand out against the background)
-        buttonHover: "#a38484",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#140103"             // Text color (make sure it's readable!)
+        backgroundEnd: "#660f1e",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#d1cdc7",     // Button color (should stand out against the background)
+        buttonHover: "#c7c3bd",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#050402"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
